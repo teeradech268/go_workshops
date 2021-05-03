@@ -25,8 +25,6 @@ func main() {
 
 	fmt.Println(tmp5)
 	fmt.Println(tmp6)
-	
-
-
+	fmt.Println(tmp6)
 
 }
